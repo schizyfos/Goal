@@ -1,6 +1,7 @@
 # Goals 
 
 (G1) create an AI learning model, outlined in the references bellow
+
 (G2) establish Bratislava circle
 
 # References
