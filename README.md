@@ -1,4 +1,4 @@
-# Goal (Bratislava circle)
+# Goal (Bratislava circle inspired by Vienna circle)
 Create an AI learning model, outlined in the references bellow
 
 # References:
