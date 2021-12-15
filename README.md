@@ -1,5 +1,5 @@
 # Goal
-create an AI learning model, outlined in the references bellow
+Create an AI learning model, outlined in the references bellow
 
 # References:
 
