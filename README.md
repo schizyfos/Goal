@@ -5,7 +5,7 @@ Create an AI learning model, outlined in the references bellow
 
 [1] Probably approximately correct (PAC), by Leslie Valiant,
 https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf
-"The discovery of the notion of computability constituted a new approach to discovering truths about the world. The logician Kurt Gödel generously acknowledged that computability theory has for the first time succeeded in giving an absolute definition of an interesting epistemological notion, i. e., one not depending on the formalism chosen.” What can be computed does not change as one varies the details of the model." 
+"The discovery of the notion of computability constituted a new approach to discovering truths about the world. The logician Kurt Gödel generously acknowledged that computability theory has for the first time succeeded in giving an absolute definition of an interesting epistemological notion, i. e., one not depending on the formalism chosen. What can be computed does not change as one varies the details of the model." 
 
 [2] A Socratic dialogue on mathematics, by Alfréd Rényi, 
 https://www.cambridge.org/core/services/aop-cambridge-core/content/view/13265932B04BE25A51D3944209C3AA08/S0008439500052346a.pdf/socratic_dialogue_on_mathematics.pdf
