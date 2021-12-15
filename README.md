@@ -1,5 +1,7 @@
-# Goal 
-Create an AI learning model, outlined in the references bellow
+# Goals 
+
+(G1) create an AI learning model, outlined in the references bellow
+(G2) establish Bratislava circle
 
 # References
 
@@ -12,4 +14,4 @@ https://www.cambridge.org/core/services/aop-cambridge-core/content/view/13265932
 "Why do you think, Socrates, that this method of thinking and arguing can be used only for the study of numbers and geometric forms? Why do you not try to convince your fellow-citizens to apply the same high logical standards in every other field, for instance in philosophy and politics; in discussing the problems of everyday private and public life?" From that time, this is what I have always tried to do".
 
 # Bratislava circle 
-Establish an international creative circle, (inspired by Vienna circle from the beginning of the last century) of theorists and practitioners to achieve this top noble and interesting goal.
+An international creative circle, (inspired by Vienna circle from the beginning of the last century) of theorists and practitioners to achieve this top noble and interesting goal.
