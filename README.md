@@ -1,7 +1,7 @@
 # Goal 
 Create an AI learning model, outlined in the references bellow
 
-# References:
+# References
 
 [1] Probably approximately correct (PAC), by Leslie Valiant,
 https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf
