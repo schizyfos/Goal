@@ -1,6 +1,6 @@
 # Goal
 
-Creating a comunity for the development of AI learning model, outlined in the references bellow.
+Creating a community for the development of AI learning model, outlined in the references bellow.
 
 # References
 
