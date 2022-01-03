@@ -42,3 +42,8 @@ https://schizyfos.wordpress.com/2021/12/26/261221-conceptual-engineering-2/
 
 # Blog part 3 is here
 https://schizyfos.wordpress.com/2021/12/28/281221-conceptual-engineering-3/
+
+# Blog part 4 is here
+https://schizyfos.wordpress.com/2021/12/30/301221-conceptual-engineering-4/
+
+
