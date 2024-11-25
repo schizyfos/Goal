@@ -34,16 +34,3 @@ https://arxiv.org/abs/2111.10626
 # Bratislava circle 
 An international creative circle, (inspired by Vienna circle from the beginning of the last century) of theorists and practitioners to achieve this top noble and interesting goal.
 
-# Blog part 1 is here
-https://schizyfos.wordpress.com/2021/12/25/251221-conceptual-engineering/
-
-# Blog part 2 is here
-https://schizyfos.wordpress.com/2021/12/26/261221-conceptual-engineering-2/
-
-# Blog part 3 is here
-https://schizyfos.wordpress.com/2021/12/28/281221-conceptual-engineering-3/
-
-# Blog part 4 is here
-https://schizyfos.wordpress.com/2021/12/30/301221-conceptual-engineering-4/
-
-
